@@ -4,5 +4,24 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> 这是 aaron218 的技术笔记博客，围绕 **AI、算力、硬件与算法** 记录学习与实践。
+{: .prompt-info }
+
+## 关于本站
+
+本站基于 Jekyll + Chirpy 主题构建，用于沉淀技术笔记与学习心得。内容坚持一个朴素的方法论：
+
+**read · think · do · write** —— 广泛阅读、独立思考、动手实践、落笔成文。
+
+## 主要内容
+
+- **AI**：从核心概念到 CPU/GPU 算力，梳理人工智能的基础脉络。
+- **硬件**：指令集、算力评估，理解软件背后的物理支撑。
+- **算法**：求解器与运筹优化，看数学如何解决真实决策问题。
+
+## 关于我
+
+一名数据开发与架构方向的工程师，关注数据中台、AI 工程化与系统性能优化。这个站点既是笔记，也是与同行交流的窗口。
+
+> 如果某篇文章对你有帮助，或发现疏漏，欢迎通过页脚的邮箱或 GitHub 与我交流。
 {: .prompt-tip }
