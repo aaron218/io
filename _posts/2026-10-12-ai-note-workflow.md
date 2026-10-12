@@ -1,6 +1,6 @@
 ---
 title: "AI 增强的笔记工作流：Copilot 三模式 + 本地语义搜索"
-date: 2026-10-12 15:34:00 +0800
+date: 2026-10-12 15:20:00 +0800
 categories: [AI工作流]
 tags: [AI, Obsidian, Copilot, 语义搜索, 知识管理, 工作流]
 image: /assets/img/posts/cover-ai-note-workflow.png

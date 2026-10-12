@@ -1,6 +1,6 @@
 ---
 title: "从零构建 PARA 知识库：目录、模板与自动化"
-date: 2026-10-12 15:37:00 +0800
+date: 2026-10-12 15:23:00 +0800
 categories: [工具链]
 tags: [PARA, Obsidian, 知识管理, 目录规划, 模板]
 image: /assets/img/posts/cover-para-knowledge.png

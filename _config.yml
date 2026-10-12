@@ -159,6 +159,8 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
+# 构建时也输出"未来日期"的文章，避免 date 误设导致文章不显示
+future: true
 
 # The base URL of your site
 baseurl: "/io"

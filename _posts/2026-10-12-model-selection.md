@@ -1,6 +1,6 @@
 ---
 title: "大模型选型与上下文：日常用 Flash，攻坚用 Pro"
-date: 2026-10-12 15:36:00 +0800
+date: 2026-10-12 15:22:00 +0800
 categories: [AI工作流]
 tags: [大模型, 模型选型, DeepSeek, 上下文, 成本优化]
 image: /assets/img/posts/cover-model-selection.png

@@ -1,6 +1,6 @@
 ---
 title: "用 Git 管理笔记：Obsidian Git 自动化与私有备份"
-date: 2026-10-12 15:35:00 +0800
+date: 2026-10-12 15:21:00 +0800
 categories: [工具链]
 tags: [Git, Obsidian, 版本控制, 备份, 自动化]
 image: /assets/img/posts/cover-git-workflow.png
